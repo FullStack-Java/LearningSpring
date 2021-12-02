@@ -16,7 +16,7 @@ public class EmailClient {
 //        if we wanted to use the Advanced Spell CHecker Class
 //        We would then have to change the instance of the basic spell checker to advanced spell checker
 //        this is exactly what is meant by tightly coupling
-//         See other branch to view how to make this code loosely coupled. newVersion
+//         See other branch to view how to make this code loosely coupled. looselyCoupled
 
 //        this.basicSpellChecker = new BasicSpellChecker();
         this.advancedSpellChecker = new AdvancedSpellChecker();
